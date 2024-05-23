@@ -8,9 +8,9 @@ Create 3D objects using only code with [OpenSCAD](https://openscad.org/)
 ## Usage
 * **STL Folder**: Contains 3D models in .stl file format, which can be opened with any graphic software.
 * **OpenSCAD Folder**:  Contains the code for the models, which can be edited and render with OpenSCAD.
-* **detail.pdf**: Contains insight on how to code and how to adjust the parameter for each model
+* **[detail.pdf](/detail.pdf)**: Contains insight on how to code and how to adjust the parameter for each model
   
-## Example
+## CODE Example
 
 **Base Trefoil dragon ring** 
 
@@ -20,4 +20,6 @@ Create 3D objects using only code with [OpenSCAD](https://openscad.org/)
 **Trefoil dragon ring with different parametrization**
 
 ![Trefoil2](dragon2.png)
+
+
 
