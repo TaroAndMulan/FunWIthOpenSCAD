@@ -7,7 +7,7 @@ Create 3D objects using only code with [OpenSCAD](https://openscad.org/)
    
 ## Usage
 * **STL Folder**: Contains 3D models in .stl file format, which can be opened with any graphic software.
-* **OpenSCAD Folder**:  Contains the code for the models, which can be edited with OpenSCAD.
+* **OpenSCAD Folder**:  Contains the code for the models, which can be edited and render with OpenSCAD.
 * **detail.pdf**: Contains insight on how to code and how to adjust the parameter for each model
   
 ## Example
